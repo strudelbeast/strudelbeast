@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**strudelbeast/strudelbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Florian and just graduated the department for informatics at the [HTL St. Pölten](https://www.htlstp.ac.at/abteilungen/informatik) (it's a higher vocational college) with focus on software engeneering with Java, Databases, network engineering and project management. Besides that we learn the basics of cybersecurity and machine learning.
 
-Here are some ideas to get you started:
+### Programming
+While I was a student I started to learn Python and React and during my internships I worked with Vue.js, Laravel and Openlayers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With this knowledge, I develop small applications in my spare time, of which unfortunately only a few are actually finished, as I have so many ideas and still have to learn a lot on the side for many of them.
+
+### Hobbies
+
+In my free time, I spend a lot of time at the volunteer fire brigade and have also been working there as an IT executive since 2021.
+
+I also enjoy playing spikeball and beach volleyball or riding my mountain bike.
+
+### 📫 Contact 📫
+
+* Email: [schlichting.florian1@gmail.com](mailto:schlichting.florian1@gmail.com)
+* Twitter: [@fasig_](https://twitter.com/fasig_)
+* [LinkedIn](https://www.linkedin.com/in/florian-schlichting/)
+
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=strudelbeast&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
