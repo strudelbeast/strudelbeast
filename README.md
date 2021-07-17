@@ -21,4 +21,6 @@ I also enjoy playing spikeball and beach volleyball or riding my mountain bike.
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=strudelbeast&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=strudelbeast&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strudelbeast&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
