@@ -15,7 +15,7 @@ I also enjoy playing spikeball and beach volleyball or riding my mountain bike.
 
 ### 📫 Contact 📫
 
-* Email: [schlichting.florian1@gmail.com](mailto:schlichting.florian1@gmail.com)
+* Email: [schlichting.florian@fasig.at](mailto:schlichting.florian@fasig.at)
 * Twitter: [@fasig_](https://twitter.com/fasig_)
 * [LinkedIn](https://www.linkedin.com/in/florian-schlichting/)
 
